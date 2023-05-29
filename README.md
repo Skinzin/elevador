@@ -36,13 +36,22 @@ Levando em consideração que
 
 Tenha em mente que você possua:
 
-- Um editor de código
-- Java instalado em sua máquina
+    - Um editor de código
+    - Java instalado em sua máquina
 
 1. Abra este diretorio em seu editor e depure (F5 em caso de VSCode ou Shift + F10 em caso do IntelliJ Idea).
 2. Siga os passos do programa com solicitado.
 
 Ou caso prefira.
 1. Em seu terminal, direcione o caminho para <a href="out/production/Elevadores">./out/production/Elevadores</a>
-2. Digite Java Main
+Para isto:
+
+    - Digite cd ./out/production/Elevadores
+    
+
+2. Para rodar o main:
+
+    - Digite Java Main
+    
+
 3. Siga os passos do programa com solicitado.
